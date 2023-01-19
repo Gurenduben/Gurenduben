@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Gurenduben
 - 👀 I’m interested in Cracking bitcoin and getting money
-- 📫 How to reach me: telegram @kieran444
+- 📫 How to reach me: telegram @Kieran444
 
-<!---
-Gurenduben/Gurenduben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Im a guy who wants to learn as much as he can and i also want to be an inventor and change the world somehow
